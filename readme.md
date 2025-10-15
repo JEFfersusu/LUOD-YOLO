@@ -3,7 +3,7 @@
 
 This work has been accepted by the _Journal of Real-Time Image Processing_.
 
-The code is currently being prepared.
+_**The code is currently being prepared.**_
 
 The paper is freely available at: https://www.researchgate.net/publication/396498122_LUOD-YOLO_a_lightweight_underwater_object_detection_model_based_on_dynamic_feature_fusion_dual_path_rearrangement_and_cross-scale_integration
 
