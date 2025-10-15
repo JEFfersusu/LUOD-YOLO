@@ -3,6 +3,8 @@
 
 This work has been published in the _Journal of Real-Time Image Processing_: https://link.springer.com/article/10.1007/s11554-025-01778-9
 
+Anyone you share the following link with will be able to read this content: https://rdcu.be/eK2Rv
+
 _**The code is currently being prepared.**_
 
 The paper is freely available at: https://www.researchgate.net/publication/396498122_LUOD-YOLO_a_lightweight_underwater_object_detection_model_based_on_dynamic_feature_fusion_dual_path_rearrangement_and_cross-scale_integration
