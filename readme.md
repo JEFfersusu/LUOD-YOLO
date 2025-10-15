@@ -1,7 +1,7 @@
 # LUOD-YOLO
 **Official PyTorch implementation of "LUOD-YOLO: A lightweight underwater object detection model based on dynamic feature fusion, dual path rearrangement and cross-scale integration"**.
 
-This work has been published by the _Journal of Real-Time Image Processing_: https://link.springer.com/article/10.1007/s11554-025-01778-9
+This work has been published in the _Journal of Real-Time Image Processing_: https://link.springer.com/article/10.1007/s11554-025-01778-9
 
 _**The code is currently being prepared.**_
 
